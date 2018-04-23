@@ -1,0 +1,18 @@
+{
+    "name": "iotils",
+    "keywords": "IoT utils wifi location pushbullet ",
+    "description": "Collection of small IoT-related utils I use in my projects. I try to keep them small and contained in a header file.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/bdargham/iotils.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Basheer Dargham",
+            "email": "basheer@dargham.net",
+            "maintainer": true
+        }
+    ]
+}
